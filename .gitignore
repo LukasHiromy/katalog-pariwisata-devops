@@ -1,0 +1,15 @@
+# Node & React (Frontend)
+node_modules/
+dist/
+build/
+.env
+
+# Java & Spring Boot (Backend)
+target/
+*.jar
+*.class
+
+# Konfigurasi IDE & Sistem Operasi
+.idea/
+.vscode/
+.DS_Store
